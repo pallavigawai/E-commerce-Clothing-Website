@@ -42,7 +42,7 @@ const SignIn = () => {
         case "auth/wrong-password":
           alert("Incorrect password for email");
           break;
-        case "auth / user - not - found":
+        case "auth/user-not-found":
           alert("no user associated with this email");
           break;
         default:

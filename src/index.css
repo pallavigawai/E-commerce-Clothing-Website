@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 20px 20px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -15,12 +16,4 @@ code {
 * {
   text-decoration: none;
   box-sizing: border-box;
-}
-.shop-container {
-  position: absolute;
-  top: 100px;
-}
-.shop-text {
-  position: relative;
-  left: 60px;
 }
